@@ -7,7 +7,7 @@
     <title>WildFly::Cookbook</title>
 </head>
 <body>
-<b>Welcome, this is your first application running on OpenShit Online!<br/><br/>Gr8 job!</b>
+<b>We need top change some code here!</b>
 </body>
 </html>
 	
